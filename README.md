@@ -1,2 +1,2 @@
-# mihajelo.guthub.io
+# mihajelo.github.io
 ŠTEMPL app
